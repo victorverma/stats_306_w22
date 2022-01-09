@@ -1,4 +1,4 @@
-## STATS 306 (Winter 2022)
+## STATS 306 Lab 004, Winter 2022
 
 ## GSI Information
 
