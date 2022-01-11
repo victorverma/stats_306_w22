@@ -17,6 +17,7 @@ _Because of the Omicron surge, lab and office hours will be held on Zoom until f
 - ggplot2
   - [The package creator's book](https://ggplot2-book.org)
   - [Cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf)
+- [List of all cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
 ## Surveys
 
