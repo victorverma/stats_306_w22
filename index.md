@@ -13,9 +13,9 @@ _Because of the Omicron surge, lab and office hours will be held on Zoom until f
 
 - [Course website](https://ambujtewari.github.io/stats306-winter2022/)
 - [Slack workspace for the course](https://um-wn22-stats306.slack.com/)
-- [Textbook](https://r4ds.had.co.nz)
-- ggplot2
-  - [The package creator's book](https://ggplot2-book.org)
+- Books
+  - [Textbook](https://r4ds.had.co.nz)
+  - [ggplot2 book](https://ggplot2-book.org)
 - Cheatsheets
   - [List of all cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
   - [Base R](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf)
