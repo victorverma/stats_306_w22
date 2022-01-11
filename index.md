@@ -1,4 +1,4 @@
-## STATS 306 Lab 004, Winter 2022
+## STATS 306 - Introduction to Statistical Computing <br/> Lab 004 <br/> Winter 2022
 
 ## GSI Information
 
