@@ -7,7 +7,7 @@ _Because of the Omicron surge, lab and office hours will be held on Zoom until f
 **Name**: Victor Verma  
 **Email**: [vkverma@umich.edu](mailto:vkverma@umich.edu)  
 **Lab Time and Location**: Wednesdays, 8:30-9:50 AM, ~~in B760 EH~~ [on Zoom](https://umich.zoom.us/j/2885058951)   
-**Office Hours Times and Location**: Mondays and Wednesdays, 1-2:30 PM, ~~in 2165 USB~~ [on Zoom](https://umich.zoom.us/j/2885058951)
+**Office Hours Times and Location**: Mondays and Fridays, 1-2:30 PM, ~~in 2165 USB~~ [on Zoom](https://umich.zoom.us/j/2885058951)
 
 ## Useful Links
 
