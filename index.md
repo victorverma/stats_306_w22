@@ -16,6 +16,7 @@ _Because of the Omicron surge, lab and office hours will be held on Zoom until f
 - Books
   - [Textbook](https://r4ds.had.co.nz)
   - [ggplot2 book](https://ggplot2-book.org)
+  - [Tidyverse style guide](https://style.tidyverse.org/index.html)
 - Cheatsheets
   - [List of all cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
   - [Base R](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf)
