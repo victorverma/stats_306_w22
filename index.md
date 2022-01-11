@@ -12,7 +12,7 @@ _Because of the Omicron surge, lab and office hours will be held on Zoom until f
 ## Useful Links
 
 - [Course website](https://ambujtewari.github.io/stats306-winter2022/)
-- [Slack workspace for the course](https://um-wn22-stats306.slack.com/)
+- [Slack workspace for the course](https://um-wn22-stats306.slack.com/) (a Lab 004 channel will be created shortly)
 - Books
   - [Textbook](https://r4ds.had.co.nz)
   - [ggplot2 book](https://ggplot2-book.org)
