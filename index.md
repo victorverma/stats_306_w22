@@ -16,8 +16,11 @@ _Because of the Omicron surge, lab and office hours will be held on Zoom until f
 - [Textbook](https://r4ds.had.co.nz)
 - ggplot2
   - [The package creator's book](https://ggplot2-book.org)
-  - [Cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf)
-- [List of all cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+- Cheatsheets
+  - [List of all cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+  - [Base R](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf)
+  - [dplyr](https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf)
+  - [ggplot2](https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf)
 
 ## Surveys
 
