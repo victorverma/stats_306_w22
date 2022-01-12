@@ -31,4 +31,4 @@ _Because of the Omicron surge, lab and office hours will be held on Zoom until f
 
 | Number | Date | Mode | Topic(s) | Notebook | Recording |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 1/12 | Virtual | Introduction, Data Visualization (Aesthetic Mappings, Scatter Plots) | | | |
+| 1 | 1/12 | Virtual | Introduction, Data Visualization (Aesthetic Mappings, Scatter Plots) | [Link](https://colab.research.google.com/drive/1Ci-xknZ15g4h3bKJZCO1fbDob79CGwmr?usp=sharing) | |
