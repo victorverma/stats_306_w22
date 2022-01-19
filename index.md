@@ -27,7 +27,7 @@ _Because of the Omicron surge, lab and office hours will be held on Zoom until f
 
 ## Surveys
 
-- Please fill out [the entry survey](https://docs.google.com/forms/d/e/1FAIpQLSda4btRsEvX7DyAfGwfnp58xoH9t87vrhkpX2FBl1HqTPlLxA/viewform?usp=pp_url) by 11:59 PM on Friday, 1/14
+- Please fill out [the entry survey](https://docs.google.com/forms/d/e/1FAIpQLSda4btRsEvX7DyAfGwfnp58xoH9t87vrhkpX2FBl1HqTPlLxA/viewform?usp=pp_url)
 
 ## Lab Materials
 
