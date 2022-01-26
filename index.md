@@ -35,3 +35,4 @@ _Because of the Omicron surge, lab and office hours will be held on Zoom until f
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 1/12 | Virtual | Introduction, Data Visualization (Aesthetic Mappings, Scatter Plots) | [Link](https://colab.research.google.com/drive/1Ci-xknZ15g4h3bKJZCO1fbDob79CGwmr?usp=sharing) | [Link](https://drive.google.com/file/d/17dfpmR5F_dVHjJItDgS9uqMNdsQNlCEC/view?usp=sharing) |
 | 2 | 1/19 | Virtual | Data Visualization (Facets, Geometric Objects) | [Link](https://colab.research.google.com/drive/1bvARveRWmSRjUpIaPNVYrDrRv7o7v62j?usp=sharing) | [Link](https://umich.zoom.us/rec/share/d7cxBBzW0J9-B4xNUgsShP9R2qKepARrUG6QHhsllgqmy9QRrw5HljMnrgz17pKh.0yX4NCteFbI4Nmjz) |
+| 3 | 1/26 | Virtual | Data Visualization (Statistical Transformations, Position Adjustments, Coordinates) | [Link](https://colab.research.google.com/drive/1apvOe1z4BbLSOD7E2zUGt-9RzK_oHXIc?usp=sharing) | |
