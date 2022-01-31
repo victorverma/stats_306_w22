@@ -2,7 +2,7 @@
 
 ## GSI Information
 
-_Because of the Omicron surge, lab and office hours will be held on Zoom until further notice._
+_Note: lab and office hours will be held in person starting the week of 1/31._
 
 **Name**: Victor Verma  
 **Email**: [vkverma@umich.edu](mailto:vkverma@umich.edu)  
