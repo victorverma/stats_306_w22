@@ -2,8 +2,6 @@
 
 ## GSI Information
 
-_Note: lab and office hours will be held in person starting the week of 1/31._
-
 **Name**: Victor Verma  
 **Email**: [vkverma@umich.edu](mailto:vkverma@umich.edu)  
 **Lab Time and Location**: Wednesdays, 8:30-9:50 AM, in 1570 NUB ~~[on Zoom](https://umich.zoom.us/j/2885058951)~~   
