@@ -37,3 +37,4 @@
 | 4 | 2/2 | In-person | Data Transformation (mutate, summarize, pipes) | [Link](https://colab.research.google.com/drive/1YlAS4jBFlSkyI5OWoA2gWlE0u5N7sG3G?usp=sharing) | - | [Link](https://colab.research.google.com/drive/1gjNpXevYKKDVaz2b20pe3bCDwep4Lafv?usp=sharing) |
 | 5 | 2/9 | In-person | EDA (Visualizing Distributions, Typical and Unusual Values, Missing Values) | [Link](https://colab.research.google.com/drive/1jZORrF4ocMl0SiuP0sBNE0Cjj849NQEO?usp=sharing) | - | [Link](https://colab.research.google.com/drive/1Q3QP7JfxB4pkN6mG1ZUyQkeNueTsJay-?usp=sharing) |
 | 6 | 2/16 | In-person | Midterm Review | [Link](https://colab.research.google.com/drive/1FHwj6_CQ7U9OKii1ECqrVOR37ImFuUyP?usp=sharing) | - | [Link](https://colab.research.google.com/drive/1NLgVEc_zqxvVe8Dd-JL7n9vBvZGFdwJz?usp=sharing) |
+| 7 | 3/9 | In-person | Tibbles, Tidy Data, and Pivoting | [Link](https://colab.research.google.com/drive/1efugEYgDuEq0i8PlRTV4nD6_9A2nDy2Y?usp=sharing) | - | - |
