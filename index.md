@@ -6,6 +6,7 @@
 **Email**: [vkverma@umich.edu](mailto:vkverma@umich.edu)  
 **Lab Time and Location**: Wednesdays, 8:30-9:50 AM, in 1570 NUB ~~[on Zoom](https://umich.zoom.us/j/2885058951)~~   
 **Office Hours Times and Location**: Mondays and Fridays, 1-2:30 PM, in 2165 USB ~~[on Zoom](https://umich.zoom.us/j/2885058951)~~
+**Note: My office hours on 3/14 will be held on Zoom**
 
 ## Useful Links
 
