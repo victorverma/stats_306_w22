@@ -22,6 +22,7 @@
   - [Base R](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf)
   - [dplyr](https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf)
   - [ggplot2](https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf)
+  - [stringr](https://github.com/rstudio/cheatsheets/blob/main/strings.pdf)
 
 ## Surveys
 
