@@ -41,4 +41,4 @@
 | 7 | 3/9 | In-person | Tibbles, Tidy Data, and Pivoting | [Link](https://colab.research.google.com/drive/1efugEYgDuEq0i8PlRTV4nD6_9A2nDy2Y?usp=sharing) | - | [Link](https://colab.research.google.com/drive/1h6H0OfNJVUqFHAJR-TMYmJsfGzzYlR0P?usp=sharing) |
 | 8 | 3/16 | In-person | Missing Values and Cleaning Messy Data | [Link](https://colab.research.google.com/drive/1KaTllGnkc6_ln9aOTxVjSAJnR7FkxEEX?usp=sharing) | - | [Link](https://colab.research.google.com/drive/1MEiqD38M183rcuOhOtqSkoV7mShD8HnP?usp=sharing) |
 | 9 | 3/23 | In-person | Regular Expressions | [Link](https://colab.research.google.com/drive/1wfh9IFgvRLWlJM5fDVdW1VRlh2AM2NqA?usp=sharing) | - | [Link](https://colab.research.google.com/drive/1nuvZJcQhp5dQzJWrvQJaZZBum3Pnph1P?usp=sharing) |
-| 10 | 3/30 | In-person | Functions | [Link](https://colab.research.google.com/drive/1asypWYtLZj_kL2vJgSHobrVmff2fvMuv?usp=sharing) | - | - |
+| 10 | 3/30 | In-person | Functions | [Link](https://colab.research.google.com/drive/1asypWYtLZj_kL2vJgSHobrVmff2fvMuv?usp=sharing) | - | [Link](https://colab.research.google.com/drive/1l2F7Wp1TXRS22jkllH9OJ0I2JotlPOPC?usp=sharing) |
