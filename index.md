@@ -43,4 +43,4 @@
 | 9 | 3/23 | In-person | Regular Expressions | [Link](https://colab.research.google.com/drive/1wfh9IFgvRLWlJM5fDVdW1VRlh2AM2NqA?usp=sharing) | - | [Link](https://colab.research.google.com/drive/1nuvZJcQhp5dQzJWrvQJaZZBum3Pnph1P?usp=sharing) |
 | 10 | 3/30 | In-person | Functions | [Link](https://colab.research.google.com/drive/1asypWYtLZj_kL2vJgSHobrVmff2fvMuv?usp=sharing) | - | [Link](https://colab.research.google.com/drive/1l2F7Wp1TXRS22jkllH9OJ0I2JotlPOPC?usp=sharing) |
 | 11 | 4/6 | In-person | Vectors, Loops, and Recursive Functions | [Link](https://colab.research.google.com/drive/1Q7kehKFkk2_-dGXENsN6wfuEjk9u4fAc?usp=sharing) | - | [Link](https://colab.research.google.com/drive/1OFe1mTXDE9GofN1_imqc6Z4e1tCLsx1x?usp=sharing) |
-| 12 | 4/13 | In-person | Final Review | [Link](https://colab.research.google.com/drive/1dgnWXsRqanXr5dX4uU6IntKkBG3BVwt_?usp=sharing) | - | - |
+| 12 | 4/13 | In-person | Final Review | [Link](https://colab.research.google.com/drive/1dgnWXsRqanXr5dX4uU6IntKkBG3BVwt_?usp=sharing) | - | [Link](https://colab.research.google.com/drive/1i8gm3HwodONEFf3eu8GqOvTzkY0PnTEy?usp=sharing) |
